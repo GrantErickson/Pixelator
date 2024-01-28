@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pixelator": {
+      "commandName": "Project",
+      "commandLineArgs": "*.jpg"
+    }
+  }
+}
